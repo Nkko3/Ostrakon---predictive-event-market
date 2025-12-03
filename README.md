@@ -1,0 +1,3 @@
+1. Download the [`/scripts`](./scripts) files to interact with the contract externally; you can configure your own API key with Metamask or Alchemy and use it in "RPC_URLS" if public RPCs are not available.
+2. Install Node.js if you don't already have it; then install the Ethers library with `npm install ethers`
+3. Run `node view-event-data.js` within the same directory to view the event data, and so on.
